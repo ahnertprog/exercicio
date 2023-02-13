@@ -4,9 +4,8 @@
 }
 body {
     background-image: url(Imagens/tupacwal.gif);
-    background-size: cover;
     width: 100%;
-    heigth: 100%;
+    background-size: cover;
 }
 h1 {
     color: white;
@@ -91,4 +90,12 @@ a {
 }
 a:hover {
     color: rgb(39, 230, 39);
+}
+a:active {
+    color: blue;
+}
+img:active {
+    border-radius: 20px;
+    border: black;
+    border-style: double;
 }
