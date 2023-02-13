@@ -4,6 +4,7 @@
 }
 body {
     background-image: url(Imagens/tupacwal.gif);
+    background-size: cover;
     width: 100%;
     heigth: 100%;
 }
